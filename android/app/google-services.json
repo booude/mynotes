@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295041187460",
+    "project_id": "mynotes-freecodecamp-tutorial",
+    "storage_bucket": "mynotes-freecodecamp-tutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295041187460:android:45936a7651d2c54ba30cd1",
+        "android_client_info": {
+          "package_name": "com.learningdart.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295041187460-g8l1m1a103hrosbo36q69e4icfj7vhp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB24FmltMy48jyGTD98FHiKQjorB4aM1ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295041187460-g8l1m1a103hrosbo36q69e4icfj7vhp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
